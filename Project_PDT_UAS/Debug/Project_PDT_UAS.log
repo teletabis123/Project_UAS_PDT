@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\james\documents\pdt\project_pdt_uas\project_pdt_uas\source.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project_PDT_UAS.vcxproj -> C:\Users\James\Documents\PDT\Project_PDT_UAS\Debug\Project_PDT_UAS.exe
